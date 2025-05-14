@@ -24,7 +24,7 @@
 
 
 ## Contact Me
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="mailto:derouru@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 <!--
 **derouru/derouru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
