@@ -14,7 +14,7 @@
 
 ## Ongoing
 > I'm currently working on:
-- 🧸 [Findr](#) – An IoT-powered smart Lost & Found system to streamline item reporting, recovery, and management. Me and my team are currently figuring out how the whole system will work on AWS!
+- 🧸 [Findr](#) – An IoT-powered smart Lost & Found system to streamline item reporting, recovery, and management. Me and my team are figuring out how the whole system will work on AWS!
 
 ## Showcase
 > Some projects I'm proud of:
