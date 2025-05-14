@@ -15,11 +15,11 @@
 
 ## Ongoing
 > I'm currently working on:
-- 🧸 [Findr](#) – An IoT-powered smart Lost & Found system to streamline item reporting, recovery, and management. Me and my team are figuring out how the whole system will work on AWS!
+- 🧸 Findr – An IoT-powered smart Lost & Found system to streamline item reporting, recovery, and management. Me and my team are figuring out how the whole system will work on AWS!
 
 ## Showcase
 > Some projects I'm proud of:
-- 📺 [Project Movie Watch](https://moviewatch.cloud/Project-Movie-Watch/mymovies/login.php) – a CRUD app for logging movies I've watched, built with `AWS EC2`, `RDS`, `Lambda`, `API Gateway`, and developed locally with `XAMPP`.
+- 📺 [Project Movie Watch](https://moviewatch.cloud/Project-Movie-Watch/mymovies/login.php) – a CRUD app for logging movies I've watched, built with `AWS EC2`, `AWS RDS`, `AWS Lambda`, `AWS API Gateway`, and developed locally with `XAMPP`.
 - 🏎 [ISKOmmute](https://iskommute.vercel.app/) – a Svelte-based web application to guide the UP Diliman community in navigating around the campus, built with `SvelteKit` and `MapBox`.
 - 🎮 [KanaTyper](https://kana-typer.vercel.app/) – a typing game to help users learn N5-level Japanese vocabulary in hiragana and katakana, built with `Tailwind` and `JavaScript`.
 
